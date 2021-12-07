@@ -20,7 +20,7 @@ ui <- dashboardPage(
                         a(
                             strong("HELP"),
                             height = 40,
-                            href = "https://github.com/LenaBonin/KidneyDiseasesExplorer/blob/main/README.md",
+                            href = "https://github.com/LenaBonin/KidneyExplorer/blob/main/README.md",
                             title = "",
                             target = "_blank"
                         ),
